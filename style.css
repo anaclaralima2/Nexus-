@@ -22,3 +22,6 @@
 .sobre{
     background-color: #0d6dfd13;
 }
+table th {
+    font-weight: inherit;
+}
